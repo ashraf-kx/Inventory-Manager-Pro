@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/switchClick_2.wav</file>
+        <file>sounds/click_04.wav</file>
+        <file>sounds/beepBarCode.wav</file>
+    </qresource>
+</RCC>
